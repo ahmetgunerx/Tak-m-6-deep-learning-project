@@ -1,1 +1,1 @@
-# Tak-m-6-deep-learning-project
+# Takım-6-deep-learning-project
